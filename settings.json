@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.colorCustomizations": {
+    
+        "editor.selectionBackground": "#0071BC",
+        "editor.selectionHighlightBackground": "#4088b8"
+        }
+}
